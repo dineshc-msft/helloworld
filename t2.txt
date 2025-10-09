@@ -1,1 +1,2 @@
-t2
+hello world!
+greetings from t2!
